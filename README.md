@@ -44,7 +44,7 @@ Learn to spot and remove potentially harmful browser extensions to enhance brows
 
 
 
--How Malicious Extensions Can Harm Users
+## How Malicious Extensions Can Harm Users
 - Track browsing activity and steal sensitive information.
 - Inject ads, pop-ups, and malicious code into web pages.
 - Redirect search results to phishing or malicious sites.
